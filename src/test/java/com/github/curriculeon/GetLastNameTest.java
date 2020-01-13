@@ -3,9 +3,6 @@ package com.github.curriculeon;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by leon on 12/16/2019.
- */
 public class GetLastNameTest {
     //given
     private void test(String expectedLastName) {
